@@ -3,3 +3,6 @@ sudo systemctl set-default multi-user.target
 
 To enable the GUI:
 sudo systemctl set-default graphical.target
+
+to generate the file we need
+make clean && make
