@@ -1,0 +1,5 @@
+To disable the GUI: (useful for certain command testing to check the speed n such)
+sudo systemctl set-default multi-user.target
+
+To enable the GUI:
+sudo systemctl set-default graphical.target
