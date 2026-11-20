@@ -1,0 +1,5 @@
+Notes for the TP:
+We need to write a program which detects a sign within a video, says the number on said sign and then write the max speed limit at a current time
+Until we find another speed limit, keep the most recently read one.
+
+But, for our jetsons, as we have some video cameras, we also need to make it able to read certain ready made pictures.
