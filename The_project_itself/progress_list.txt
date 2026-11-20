@@ -3,3 +3,5 @@ Have a video, read the signs which come on screen and showcase the number
 once that works, do the same but with the inbuilt jetson camera.
 
 We now have our video viewer code ready!
+
+First step, we need to detect if something is red on the video itself
