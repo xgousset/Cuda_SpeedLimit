@@ -6,3 +6,6 @@ sudo systemctl set-default graphical.target
 
 to generate the file we need
 make clean && make
+
+When it comes to reading from the camera:
+./video_viewer csi://0 display://0 --input-flip=rotate-180
